@@ -1,0 +1,3 @@
+# ignore my sql backups
+*.sql
+
